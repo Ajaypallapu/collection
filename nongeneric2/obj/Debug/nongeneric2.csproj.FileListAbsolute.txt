@@ -1,0 +1,8 @@
+C:\Users\Ajaybabu_Pallapu\source\repos\nongeneric2\nongeneric2\bin\Debug\nongeneric2.exe.config
+C:\Users\Ajaybabu_Pallapu\source\repos\nongeneric2\nongeneric2\bin\Debug\nongeneric2.exe
+C:\Users\Ajaybabu_Pallapu\source\repos\nongeneric2\nongeneric2\bin\Debug\nongeneric2.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\nongeneric2\nongeneric2\obj\Debug\nongeneric2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\nongeneric2\nongeneric2\obj\Debug\nongeneric2.csproj.CoreCompileInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\nongeneric2\nongeneric2\obj\Debug\nongeneric2.exe
+C:\Users\Ajaybabu_Pallapu\source\repos\nongeneric2\nongeneric2\obj\Debug\nongeneric2.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\nongeneric2\nongeneric2\obj\Debug\nongeneric2.csproj.AssemblyReference.cache

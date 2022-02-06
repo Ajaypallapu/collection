@@ -1,0 +1,8 @@
+C:\Users\Ajaybabu_Pallapu\source\repos\generic\generic\bin\Debug\generic.exe.config
+C:\Users\Ajaybabu_Pallapu\source\repos\generic\generic\bin\Debug\generic.exe
+C:\Users\Ajaybabu_Pallapu\source\repos\generic\generic\bin\Debug\generic.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\generic\generic\obj\Debug\generic.csproj.AssemblyReference.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\generic\generic\obj\Debug\generic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\generic\generic\obj\Debug\generic.csproj.CoreCompileInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\generic\generic\obj\Debug\generic.exe
+C:\Users\Ajaybabu_Pallapu\source\repos\generic\generic\obj\Debug\generic.pdb

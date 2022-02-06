@@ -1,0 +1,8 @@
+C:\Users\Ajaybabu_Pallapu\source\repos\speccollection\speccollection\bin\Debug\speccollection.exe.config
+C:\Users\Ajaybabu_Pallapu\source\repos\speccollection\speccollection\bin\Debug\speccollection.exe
+C:\Users\Ajaybabu_Pallapu\source\repos\speccollection\speccollection\bin\Debug\speccollection.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\speccollection\speccollection\obj\Debug\speccollection.csproj.AssemblyReference.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\speccollection\speccollection\obj\Debug\speccollection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\speccollection\speccollection\obj\Debug\speccollection.csproj.CoreCompileInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\speccollection\speccollection\obj\Debug\speccollection.exe
+C:\Users\Ajaybabu_Pallapu\source\repos\speccollection\speccollection\obj\Debug\speccollection.pdb
